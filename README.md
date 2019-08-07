@@ -1,0 +1,2 @@
+# fp
+functional programming
